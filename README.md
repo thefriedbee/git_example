@@ -86,4 +86,6 @@ Undo add (staged file)
 The above includes basic operations within local reporsitory.
 
 
+Thanks for watching!
+
 
