@@ -10,6 +10,10 @@ def multiply(x, y):
     """Returns the product of x and y."""
     return x * y
 
+def power(x, y):
+    """Returns x raised to the power of y."""
+    return x ** y
+
 def divide(x, y):
     """Returns the quotient of x and y."""
     if y == 0:
