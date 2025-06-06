@@ -1,9 +1,13 @@
 # Git management
 
-Three strategies
+## Three strategies
 - merge
 - rebase
 - stash
+
+## Review
+- basic operation
+- create repository
 
 
 ## Task 1. Start a new project
@@ -37,7 +41,7 @@ Three strategies
 
 ## Task 4. Merge branches
 1. `git checkout main`
-2. `git merge feature1`
+2. `git merge feature1 --no-ff`
 
 
 ## Task 5. Git rebase
@@ -80,3 +84,6 @@ Undo add (staged file)
 - Preview graph: `git log --oneline --graph`
 
 The above includes basic operations within local reporsitory.
+
+
+

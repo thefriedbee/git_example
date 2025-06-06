@@ -1,4 +1,4 @@
-def sum(x, y):
+def sum(x: int, y: int) -> int:
     """Returns the sum of x and y."""
     return x + y
 
